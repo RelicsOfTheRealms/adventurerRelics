@@ -1,54 +1,55 @@
 {
-	"name": "relics-of-the-realms-tier2-may",
-	"title": "Relics of the Realms May Tier 2 Collection",
-	"description": "A Compendium of D&D 5e Magic Items and Spells",
-	"version": "1.4.0",
-	"author": "Relics of the Realms",
-	"minimumCoreVersion": "0.8.0",
-	"compatibleCoreVersion": "9",
-	"packs": [{
-			"name": "tier2-wondrous-items",
-			"label": "R&R: Wondrous Items",
-			"path": "./packs/tier2-wondrous-items.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "tier2-armor",
-			"label": "R&R: Enchanted Armor",
-			"path": "./packs/tier2-armor.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "tier2-weapons",
-			"label": "R&R: Magical Weapons",
-			"path": "./packs/tier2-weapons.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "tier2-spells",
-			"label": "R&R: Spells",
-			"path": "./packs/tier2-spells.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "tier2-bonus-spells",
-			"label": "R&R: Tier 2 Spells",
-			"path": "./packs/tier2-bonus-spells.db",
-			"entity": "Item",
-			"type": "Item"
-		},
-		{
-			"name": "tier2-bonus-equipment",
-			"label": "R&R: Tier 2 Equipment",
-			"path": "./packs/tier2-bonus-equipment.db",
-			"entity": "Item",
-			"type": "Item"
-		}
-	],
-	"manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-	"download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "name": "relics-of-the-realms-tier2-may",
+    "title": "Relics of the Realms May Tier 2 Collection",
+    "description": "A Compendium of D&D 5e Magic Items and Spells",
+    "version": "1.4.0",
+    "author": "Relics of the Realms",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "11.300",
+    "packs": [
+        {
+            "name": "tier2-wondrous-items",
+            "label": "R&R: Wondrous Items",
+            "path": "./packs/tier2-wondrous-items.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "tier2-armor",
+            "label": "R&R: Enchanted Armor",
+            "path": "./packs/tier2-armor.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "tier2-weapons",
+            "label": "R&R: Magical Weapons",
+            "path": "./packs/tier2-weapons.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "tier2-spells",
+            "label": "R&R: Spells",
+            "path": "./packs/tier2-spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "tier2-bonus-spells",
+            "label": "R&R: Tier 2 Spells",
+            "path": "./packs/tier2-bonus-spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "tier2-bonus-equipment",
+            "label": "R&R: Tier 2 Equipment",
+            "path": "./packs/tier2-bonus-equipment.db",
+            "entity": "Item",
+            "type": "Item"
+        }
+    ],
+    "manifest": "https://github.com/RelicsOfTheRealms/adventurerRelics/releases/latest/download/module.json",
+    "download": "https://github.com/RelicsOfTheRealms/adventurerRelics/releases/download/1.4.0/module.zip"
 }
